@@ -1,6 +1,6 @@
 # React Query (TanStack) Tutorial: Fetching, Caching, and Mutations Made Easy
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/688ecf617a49f1456836fd14/react-query-tanstack-tutorial-fetching-caching-and-mutations-made-easy).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
